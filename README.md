@@ -52,7 +52,7 @@ you are doing.
 
 New releases of the CLI are made regularly. Update with this command:
 
-    platform self:update
+    platform self-update
 
 ## Usage
 
